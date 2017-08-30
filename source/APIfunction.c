@@ -890,7 +890,7 @@ BOOL AboutSystem(void)
                           };
 
     ShowModule(plabel_name, 3);
-    ShellExecute(NULL,"open","https://github.com/ShmilyBelon/Science-Project-Information-Management-System.git",NULL,NULL,SW_SHOWNORMAL);
+    ShellExecute(NULL,"open","https://github.com/ShmilyBelon/SciPrjManager",NULL,NULL,SW_SHOWNORMAL);
 
     /*œ‘ æπ‚±Í*/
     GetConsoleCursorInfo(gh_std_out,&lpCur);

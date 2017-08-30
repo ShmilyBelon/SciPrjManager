@@ -44,3 +44,45 @@
 1503830963 source:d:\f_work\codeblocks\woks\random_work\kcsj\copy7\spms\apifunction.c
 	"ExternInfoList.h"
 
+1503888651 source:d:\f_work\github\repository\sciprjmanager\exefunction.c
+	"ExternInfoList.h"
+
+1503885823 d:\f_work\github\repository\sciprjmanager\externinfolist.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<wincon.h>
+	<conio.h>
+	<string.h>
+	<io.h>
+	<fcntl.h>
+	<sys\stat.h>
+	<sys/types.h>
+	<ctype.h>
+	<time.h>
+	<unistd.h>
+
+1503830912 source:d:\f_work\github\repository\sciprjmanager\main.c
+	"InfoList.h"
+
+1503886050 d:\f_work\github\repository\sciprjmanager\infolist.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<wincon.h>
+	<conio.h>
+	<string.h>
+	<io.h>
+	<fcntl.h>
+	<sys\stat.h>
+	<sys/types.h>
+	<ctype.h>
+	<time.h>
+	<unistd.h>
+
+1503830893 source:d:\f_work\github\repository\sciprjmanager\sysdatafunction.c
+	"ExternInfoList.h"
+
+1503886398 source:d:\f_work\github\repository\sciprjmanager\uifunction.c
+	"ExternInfoList.h"
+
