@@ -291,7 +291,7 @@ void CloseSys(SCH_NODE *hd)
 
     ClearScreen();        /*清屏*/
 
-    /*释放存放菜单条、状态条、性别代码和学生类别代码等信息动态存储区*/
+    /*释放存放菜单条、状态条等信息动态存储区*/
     free(gp_buff_menubar_info);
     free(gp_buff_stateBar_info);
 
@@ -587,10 +587,7 @@ void RunSys(SCH_NODE **phead)
     }
 }
 
-/*void PopPrompt(int num)
-{
-  return;
-}*/
+
 
 /**
  * 函数名称: PopMenu
